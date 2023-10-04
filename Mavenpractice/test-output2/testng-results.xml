@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-04T00:19:43 IST" name="Default suite" finished-at="2023-10-04T00:21:47 IST" duration-ms="124017">
+    <groups>
+    </groups>
+    <test started-at="2023-10-04T00:19:43 IST" name="Default test" finished-at="2023-10-04T00:21:47 IST" duration-ms="124017">
+      <class name="testng.Tests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testng.Tests@3023df74]" started-at="2023-10-04T00:19:43 IST" name="setup" finished-at="2023-10-04T00:20:47 IST" duration-ms="64417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Browsertest()[pri:0, instance:testng.Tests@3023df74]" started-at="2023-10-04T00:20:47 IST" name="Browsertest" finished-at="2023-10-04T00:20:51 IST" duration-ms="3420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsertest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testng.Tests@3023df74]" started-at="2023-10-04T00:20:51 IST" name="setup" finished-at="2023-10-04T00:21:45 IST" duration-ms="54440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test2()[pri:0, instance:testng.Tests@3023df74]" started-at="2023-10-04T00:21:45 IST" name="test2" finished-at="2023-10-04T00:21:47 IST" duration-ms="1660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- testng.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
